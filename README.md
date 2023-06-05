@@ -12,3 +12,5 @@
 5. Customer Segmentation: This component categorizes customers into segments based on various criteria, such as purchasing behavior, demographics, or customer lifetime value. It helps identify high-value customers and target specific segments for marketing strategies.
 
 6. Average order value, Profit etc.
+
+![image](https://github.com/akzato/PowerBI_Dashboard_AK/assets/135569805/5816acd7-5495-49d4-a614-9d2ef5cc8f8f)
