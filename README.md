@@ -14,3 +14,7 @@
 6. Average order value, Profit etc.
 
 ![image](https://github.com/akzato/PowerBI_Dashboard_AK/assets/135569805/5816acd7-5495-49d4-a614-9d2ef5cc8f8f)
+
+![image](https://github.com/akzato/PowerBI_Dashboard_AK/assets/135569805/49612a3f-458f-4869-a242-0608a7832204)
+
+![image](https://github.com/akzato/PowerBI_Dashboard_AK/assets/135569805/64fc19b0-cfe4-409c-9425-ccba5b73203f)
